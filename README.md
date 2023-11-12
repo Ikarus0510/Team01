@@ -104,3 +104,8 @@ gantt
 
 ### DFD 圖０
 ![DFD圖0](DFD圖0.png "DFD圖0")
+
+---
+
+### UML 類別圖
+![UML類別圖](UML類別圖.png "UML類別圖")
